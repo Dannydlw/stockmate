@@ -1,0 +1,2 @@
+# stockmate
+Stock Management System
